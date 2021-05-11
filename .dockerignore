@@ -1,0 +1,11 @@
+.gitlab-ci.yml
+docker-compose.yml
+Dockerfile
+*.md
+sql
+recreate*.sh
+.*ignore
+sample_data
+docs
+.vscode
+node_modules
